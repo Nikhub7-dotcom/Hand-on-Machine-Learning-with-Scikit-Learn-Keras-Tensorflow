@@ -93,7 +93,7 @@ jupyter notebook
 ## 📝 Chapter Progress
 
 - [x] Chapter 1: The Machine Learning Landscape
-- [ ] Chapter 2: End-to-End Machine Learning Project
+- [x] Chapter 2: End-to-End Machine Learning Project
 - [ ] Chapter 3: Classification
 - [ ] Chapter 4: Training Models
 - [ ] Chapter 5: Support Vector Machines
@@ -132,10 +132,6 @@ While this is a personal learning repository, suggestions and corrections are we
 - [TensorFlow Documentation](https://www.tensorflow.org/)
 - [Keras Documentation](https://keras.io/)
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Aurélien Géron** - For writing this excellent book
@@ -146,9 +142,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Feel free to reach out if you have questions or want to discuss machine learning!
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [Nikhub7-dotcom](https://github.com/Nikhub7-dotcom)
+- LinkedIn: [Nikhil Kumar](https://www.linkedin.com/in/nikhil-kumar-b19571291/)
+- Email: nikworkhub@gmail.com
 
 ---
 
